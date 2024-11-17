@@ -2,10 +2,12 @@
 
 This repository is for my thesis project.
 
-### Built game link to be added
+### Built game link
 
-I will later provide a link to the place I upload the built game, for easier access. (This probably means my Drive).
+The folder necessary to run my game can be found at the following link: [Szakdolgozat built game folder](https://drive.google.com/drive/u/0/folders/1pAZ9SbvxVLd79Meb4chKk7Zj5h0BEBPu).
 
-### More explanations to follow
+To play the game, with or without gesture control, please download the entire folder. The game itself is called "szakd.exe" which is what you will need to launch for the game.
 
-And after I'm mostly done with my thesis itself, I will come and make this repository a little prettier. :)
+To play with gesture controls, also download the "szakd.py" file from this repository. If you install the necessary packages listed at the beginning of the file, and run it alongside the game, now it should work with hand controls! Be sure to check out the "Controls" menu in the main menu, so you know what gestures to use!
+
+Happy gaming!
